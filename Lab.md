@@ -23,7 +23,7 @@ To complete this lab, you need the following:
 
 ## Exercise 1: Deploying SPFx Solutions
 
-In this exercise you will create a simple SharePoint Framework (SPFx) client-side web part that will be used in trying out different deployment configurations.
+In this exercise you will create a simple SharePoint Framework (SPFx) client-side web part that will be used to try out different deployment configurations.
 
 > NOTE: The instructions below assume you are using v1.9.1 of the SharePoint Framework Yeoman generator.
 
