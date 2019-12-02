@@ -92,7 +92,7 @@ In this demo you will learn how to change the various version numbers in SharePo
     1. Select the expand icon, a diagonal line with two arrows in the top right corner, to expand the web part toolbox:
     1. Scroll to the bottom and notice the new web part is not listed. This is because web parts are added to the web part gallery by activating a feature.
 
-> When the package was deployed, the features within it were activated. Without versioning the package, SharePoint does not see any changes within it. Thus it does not activate or reactivate any new or existing features.
+> When the package was deployed, the features within it were activated. Without versioning the package, SharePoint does not see any changes within it, thus it does not activate or reactivate any new or existing features.
 
 ### Update the SharePoint Package Version
 
