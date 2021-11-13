@@ -28,7 +28,7 @@ The lab for this module is available in multiple units within the associated Mic
 
 ## Watch the Module - Video
 
-This module has been recorded and is available in the SharePoint Development YouTube channel: [SharePoint Framework Training - Deploy SharePoint Framework components to production](https://www.youtube.com/watch?v=DLi6ZviEIJ8)
+This module has been recorded and is available in the SharePoint Development YouTube channel: [SharePoint Framework Training - Deploy SharePoint Framework components to production](https://www.youtube.com/watch?v=DLi6ZviEIJ8&list=PLR9nK3mnD-OV-RPXQ3Lco845qoEy7VJoc)
 
 ## Contributors
 
